@@ -1,3 +1,3 @@
-# rasulzeynal.github.io
+# myFoodStore
 
 Yalnız HTML və CSS istifadə olunub.
