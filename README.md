@@ -1,4 +1,4 @@
-# myFoodStore
+# FoodStore
 
 This is the first project I have written to test my skills after learning HTML and CSS.
 Only HTML and CSS were used in the project.
